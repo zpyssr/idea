@@ -14,5 +14,7 @@ public class TestGit {
     }
     public static void fxxk1() {
         System.out.println("删库跑路!");
+        int i = 0;
+        i += 10;
     }
 }
