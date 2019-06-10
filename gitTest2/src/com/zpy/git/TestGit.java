@@ -12,4 +12,7 @@ public class TestGit {
     public static void fxxk() {
         System.out.println("删库跑路!");
     }
+    public static void fxxk1() {
+        System.out.println("删库跑路!");
+    }
 }
