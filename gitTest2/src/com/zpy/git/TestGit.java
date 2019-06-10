@@ -9,4 +9,7 @@ public class TestGit {
         System.out.println("laix");
         System.out.println("laix");
     }
+    public static void fxxk() {
+        System.out.println("删库跑路!");
+    }
 }
